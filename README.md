@@ -4,8 +4,7 @@
 
 ### Basic Stop Watch App
 
-
-
+![Basic Stop Watch](https://user-images.githubusercontent.com/45048950/72207987-9f650700-34d8-11ea-9595-f4b1a12598ce.gif)
 
 ### Tools + Language + Framework + Techniques :
 
