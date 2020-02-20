@@ -2,9 +2,7 @@
 
 # iOS Basic Stop Watch App
 
-![Basic Stop Watch](https://user-images.githubusercontent.com/45048950/72207987-9f650700-34d8-11ea-9595-f4b1a12598ce.gif)
-
-### Built With :
+![iOS Basic Stop Watch](https://user-images.githubusercontent.com/45048950/74952604-74f15c80-543b-11ea-8946-fbcbd8cbde78.gif)
 
 ### Code Editor
 
